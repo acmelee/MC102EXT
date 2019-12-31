@@ -3,6 +3,7 @@
  */
 //% weight=94 color=#EC7505 icon="\uf1b3"
 namespace hourOfCode {
+namespace MC102 {
     // the agentDestroy and hazardsRemain functions are supposed to
     // look indistinguishable from lesson to lesson, since only one
     // set will ever appear at a time. their display names should
