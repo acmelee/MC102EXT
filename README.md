@@ -1,8 +1,6 @@
-# Minecraft 2019 Hour of Code™ Extension [![Build Status](https://travis-ci.org/Microsoft/pxt-minecraft-hoc2019.svg?branch=master)](https://travis-ci.org/Microsoft/pxt-minecraft-hoc2019)
+# Minecraft MakeCode 102 Extension 
 
-This repo has additional blocks and api for Minecraft 2019 Hour of Code™ experience.  
-
-Hour of Code™ is a trademark of Code.org.
+This repo has additional blocks and api for Minecraft MakeCode 102 experience.  
 
 ## Usage
 

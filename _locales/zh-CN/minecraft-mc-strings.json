@@ -14,5 +14,5 @@
   "hourOfCode.hazardsRemainL6|block": "危险仍然存在",
   "hourOfCode.openDoor|block": "打开门",
   "hourOfCode|block": "hourOfCode",
-  "{id:category}HourOfCode": "HourOfCode"
+  "{id:category}HourOfCode": "HourOfCode test"
 }
