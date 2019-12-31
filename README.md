@@ -1,6 +1,7 @@
 # Minecraft MakeCode 102 Extension 
 
 This repo has additional blocks and api for Minecraft MakeCode 102 experience.  
+Makecode 102 expansion package based on [HOC 2019](https://github.com/microsoft/pxt-minecraft-HOC2019) expansion package.
 
 ## Usage
 
