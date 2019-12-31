@@ -11,7 +11,9 @@
         "extension.ts",
         "enums.d.ts",
         "_locales/zh-CN/minecraft-MC102-jsdoc-strings.json",
-        "_locales/zh-CN/minecraft-MC102-strings.json"
+        "_locales/zh-CN/minecraft-MC102-strings.json",
+        "_locales/en-GB/minecraft-MC102-jsdoc-strings.json",
+        "_locales/en-GB/minecraft-MC102-strings.json"
   
     ],
     "testFiles": [
