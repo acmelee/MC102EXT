@@ -1,2 +1,18 @@
 {
+  "MC102.agentAnalyze|block": " 代理分析 %dir",
+  "MC102.agentDestroyL4|block": "代理摧毁 %dir",
+  "MC102.agentDestroyL5|block": "代理摧毁 %dir",
+  "MC102.agentDestroyL6|block": "代理摧毁 %dir",
+  "MC102.agentDetectDryBrush|block": "代理检测干燥灌木 %dir",
+  "MC102.agentDetectDryFern|block": "代理检测干燥蕨 %dir",
+  "MC102.agentDetectDryGrass|block": "代理检测干草 %dir",
+  "MC102.agentLookForHazards|block": "代理查找危险",
+  "MC102.agentSeeHazard|block": "发现危险",
+  "MC102.alertTeam|block": "警告团队",
+  "MC102.hazardsRemainL4|block": "危险仍然存在",
+  "MC102.hazardsRemainL5|block": "危险仍然存在",
+  "MC102.hazardsRemainL6|block": "危险仍然存在",
+  "MC102.openDoor|block": "打开门",
+  "MC102|block": "MC102",
+  "{id:category}HourOfCode": "MC102 test"
 }
