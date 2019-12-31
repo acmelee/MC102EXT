@@ -15,4 +15,5 @@
   "MC102.openDoor|block": "打开门",
   "MC102|block": "MC102",
   "{id:category}HourOfCode": "MC102 test"
+  "{id:category}MC102": "MC102 test"
 }
