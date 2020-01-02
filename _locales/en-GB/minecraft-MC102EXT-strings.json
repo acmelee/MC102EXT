@@ -13,6 +13,7 @@
   "MC102EXT.hazardsRemainL5|block": "hazards remain",
   "MC102EXT.hazardsRemainL6|block": "hazards remain",
   "MC102EXT.openDoor|block": "open door",
+  "MC102EXT.sayhi|block": "say hi",
   "MC102EXT|block": "MC102EXT",
   "{id:category}MC102EXT": "MC102EXT"
 }
