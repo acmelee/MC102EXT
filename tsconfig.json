@@ -1,9 +1,8 @@
 {
     "compilerOptions": {
-        "target": "es7",
+        "target": "es2020",
         "noImplicitAny": true,
         "outDir": "builted",
         "rootDir": "."
-    },
-    "exclude": ["pxt_modules/**/*test.ts"]
+    }
 }
