@@ -32,7 +32,11 @@ namespace MC102EXT {
             taskIsComplete = true
         }
     }
-
+    /**
+     * Opens a gate
+     */
+    //% block="say hi"
+    //% weight=90
     export function sayhi() {
         mobs.execute(
             mobs.target(TargetSelectorKind.NearestPlayer),
