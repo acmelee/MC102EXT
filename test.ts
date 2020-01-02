@@ -8,7 +8,7 @@ MC102EXT.hazardsRemainL6();
 MC102EXT.agentDestroyL4(SixDirection.Forward);
 MC102EXT.agentDestroyL5(SixDirection.Forward);
 MC102EXT.agentDestroyL6(SixDirection.Forward);
-MC102EXT.openDoor();
+MC102EXT.ooopenDoor();
 MC102EXT.sayhi();
 MC102EXT.completeTask();
 MC102EXT.agentLookForHazards();
