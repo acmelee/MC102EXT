@@ -10,6 +10,7 @@
         "README.md",
         "extension.ts",
         "enums.d.ts",
+        "icon.png",
         "_locales/zh-CN/minecraft-MC102EXT-jsdoc-strings.json",
         "_locales/zh-CN/minecraft-MC102EXT-strings.json",
         "_locales/en-GB/minecraft-MC102EXT-jsdoc-strings.json",
