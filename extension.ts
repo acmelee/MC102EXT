@@ -33,7 +33,7 @@ namespace MC102EXT {
         }
     }
     /**
-     * Opens a gate
+     * say hi
      */
     //% block="say hi""
     //% weight=90
@@ -48,7 +48,7 @@ namespace MC102EXT {
 
     
     /**
-     * Ooooooopens a gateo
+     * Ooooooopens a gate
      */
     //% block="ooooooopen gate"
     //% weight=90
