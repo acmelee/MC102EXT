@@ -13,6 +13,7 @@
   "MC102EXT.hazardsRemainL5|block": "危险仍然存在",
   "MC102EXT.hazardsRemainL6|block": "危险仍然存在",
   "MC102EXT.openDoor|block": "打开门",
+  "MC102EXT.sayhi|block": "你好",
   "MC102EXT|block": "MC102EXT",
   "{id:category}MC102EXT": "MC102EXT"
 }
