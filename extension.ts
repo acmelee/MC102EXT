@@ -52,7 +52,7 @@ namespace MC102EXT {
      */
     //% block="open gaaaaate"
     //% weight=90
-    export function openDoor() {
+    export function openDooor() {
         mobs.execute(
             mobs.target(TargetSelectorKind.NearestPlayer),
             positions.create(0, 0, 0),
