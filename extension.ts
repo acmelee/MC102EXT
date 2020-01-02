@@ -48,9 +48,9 @@ namespace MC102EXT {
 
     
     /**
-     * Opens a gate
+     * Ooooooopens a gate
      */
-    //% block="open gate"
+    //% block="ooooooopen gate"
     //% weight=90
     export function openDoor() {
         completeTask()
