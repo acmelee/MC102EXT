@@ -27,7 +27,7 @@ namespace MC102EXT {
             mobs.execute(
                 mobs.target(TargetSelectorKind.NearestPlayer),
                 positions.create(0, 0, 0),
-                "scoreboard players set @s success 1"
+                "scoreboard players set @s task2success 1"
             )
             taskIsComplete = true
         }
