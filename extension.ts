@@ -50,7 +50,7 @@ namespace MC102EXT {
     /**
      * Opens a gate
      */
-    //% block="open gate"
+    //% block="open gaaaaate"
     //% weight=90
     export function openDoor() {
         mobs.execute(
