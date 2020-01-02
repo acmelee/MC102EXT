@@ -27,7 +27,7 @@ namespace MC102EXT {
             mobs.execute(
                 mobs.target(TargetSelectorKind.NearestPlayer),
                 positions.create(0, 0, 0),
-                "scoreboard players set @s task2success 1"
+                "scoreboard players set @s success 1"
             )
             taskIsComplete = true
         }
@@ -35,7 +35,7 @@ namespace MC102EXT {
     /**
      * Opens a gate
      */
-    //% block="say hi"
+    //% block="say hi""
     //% weight=90
     export function sayhi() {
         mobs.execute(
@@ -50,15 +50,10 @@ namespace MC102EXT {
     /**
      * Opens a gate
      */
-    //% block="open gaaaaate"
+    //% block="open gate"
     //% weight=90
-    export function openDooor() {
-        mobs.execute(
-            mobs.target(TargetSelectorKind.NearestPlayer),
-            positions.create(0, 0, 0),
-            "scoreboard players set @s task8success 1"
-        
-        )
+    export function openDoor() {
+        completeTask()
     }
 
     /**
